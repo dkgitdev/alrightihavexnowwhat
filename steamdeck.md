@@ -15,6 +15,9 @@ Notable mentions:
 
 Various nasty stuff. Even Valve isn't perfect.
 
+## Video Editing UI is slow and inefficient
+Try using it under desktop mode. Locate it at the top "View" menu.
+
 ## Keyboard / in-game Overlay (like thouchpad menus) not visible and not interactible. (EASY)
 
 Solution: reboot.
@@ -30,9 +33,6 @@ Notes: This happens a lot more frequently when using Decky.
 
 Notes:
 - Decky plugin and decky itself is an easy way to install and configure lsfg-vk, but once you're done they can be removed. Just keep the game's start command custom, and it'll be fine.
-
-## Video Editing UI is slow and inefficient
-Try using it under desktop mode. Locate it at the top "View" menu.
 
 # Third party apps
 
