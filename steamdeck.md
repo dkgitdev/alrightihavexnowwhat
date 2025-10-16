@@ -25,7 +25,7 @@ Solution: reboot.
 Notes: This happens a lot more frequently when using Decky.
 
 # Frame generation via LS (NORMAL)
-1. Install Decky
+1. Install [Decky](https://decky.xyz/)
 2. Install [decky-lsfg-vk Plugin](https://github.com/xXJSONDeruloXx/decky-lsfg-vk)
 3. configure in plugin the settings you want for a game / globally
 4. Copy command from plugin and set it in the game's properties.
