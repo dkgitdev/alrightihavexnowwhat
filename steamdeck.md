@@ -42,7 +42,7 @@ Try using it under desktop mode. Locate it at the top "View" menu.
 
 After you add anything to steam, you have to manually set "Compatibility" to some version of proton and, perhaps, set prefered steam input method, as default may not get it correcty.
 
-When we add anything to steam, steam creates new folder in steampapps path (TODO) and the "drive C" resides there.
+When we add anything to steam, steam creates new folder in steampapps path (usually `/home/deck/.steam/steam/steamapps/compatdata`) and the "drive C" resides there.
 
 ### Portable apps
 The third-party stuff needs to be added from desktop by right-click and executable and "Add to Steam". Don't forget about compatibility and controls.
