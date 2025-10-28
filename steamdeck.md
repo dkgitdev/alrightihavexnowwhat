@@ -15,6 +15,14 @@ Notable mentions:
 
 Various nasty stuff. Even Valve isn't perfect.
 
+## Decky...
+
+### ...not showing up
+Check out log if the decky's service. It's probably something yours on port 8080.
+
+### ...not downloading plugins
+Setup `https://ndp.ngni.us` as alternative URL under the general tab in decky settings.
+
 ## Video Editing UI is slow and inefficient
 Try using it under desktop mode. Locate it at the top "View" menu.
 
