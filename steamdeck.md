@@ -15,6 +15,18 @@ Notable mentions:
 
 Various nasty stuff. Even Valve isn't perfect.
 
+## Steam Saves Sync
+
+### Windows / Linux incompatibility
+Some games (like [X4: Foundations](https://steamcommunity.com/app/392160/discussions/0/3315233099218721361/?l=english#c3315233099220670936)) have different locations on different systems.
+
+You could probably use symlinks, though I've not tried that personally (and switched away from windows instead :D).
+
+### Existing files
+If at least *some* of the target files are present steam might decide to silently do nothing. It can happen if you previously installed same game from other source and it had about the same path for saves.
+
+Solution: backup and delete files. Moving them away should help achieve both.
+
 ## Decky...
 
 ### ...not showing up
