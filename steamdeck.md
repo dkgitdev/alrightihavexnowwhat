@@ -118,6 +118,17 @@ It's gonna hurt (two systemd units and a bit of sudo stuff) but [here's the manu
 ## Syncthing via home manager
 TODO
 
+# Game Issues
+
+## Audio / Video issues in old games
+This can happen because of an abscense of specific libraries. You can either patch it yourself, or just install Proton-GE.
+The easiest way is through [ProtonUp-QT](https://github.com/DavidoTek/ProtonUp-Qt):
+- install the ProtonUp-QT
+- run it
+- select some version of Proton-GE and install
+- restart steam and coonfigure the game to use the newly available version as compatibility layer
+- try it out
+
 # Devices
 
 # Dock
